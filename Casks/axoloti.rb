@@ -1,6 +1,6 @@
 cask 'axoloti' do
-  version '1.0.12'
-  sha256 'a17c32dd7a4d2ab3441568126157bd0b72741b8c217372ab8720f0a216c4a3da'
+  version '1.0.12-1'
+  sha256 '21839f25fd323f092a9e7b4c103fc5c6e126d95bfcbdc54b2db2224639fee1b6'
 
   # github.com/axoloti/axoloti was verified as official when first introduced to the cask
   url "https://github.com/axoloti/axoloti/releases/download/#{version}/axoloti-mac-#{version}.dmg"
